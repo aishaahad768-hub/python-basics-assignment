@@ -4,3 +4,7 @@ if a > b :
   print("Karachi is hotter than Lahore")
 else:
   print ("karachi is colder than lahore")
+
+enter a temperature of lahore   :30
+enter a temperature of karachi  :12
+Karachi is hotter than Lahore
