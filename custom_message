@@ -1,0 +1,9 @@
+a=input("ENTER A NAME :  ")
+b=input("ENTER YOUR FAVOURITE COLOUR:")
+c=int(input("ENTER YOUR FAVOURITE NUMBER  = "))
+print(f"{a} loves the colour {b} and their favourite number is {c}")
+
+ENTER A NAME :  Aisha
+ENTER YOUR FAVOURITE COLOUR:black
+ENTER YOUR FAVOURITE NUMBER  = 8
+Aisha loves the colour black and their favourite number is 8
