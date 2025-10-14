@@ -1,1 +1,9 @@
+a=int(input("ENTER A TOTAL BILL AMOUNT    :RS= "))
+b=int(input("ENTER A NUMBER OF PEOPLE      :"))
+c= a/b
+print (f"EACH PERSON PAYS = {c} Rs")
 
+ENTER A TOTAL BILL AMOUNT    :RS= 1600
+ENTER A NUMBER OF PEOPLE      :5
+EACH PERSON PAYS = 320.0 Rs
+ 
