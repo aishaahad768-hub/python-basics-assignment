@@ -1,0 +1,6 @@
+a=input("enter a temperature of lahore   :")
+b=input("enter a temperature of karachi  :")
+if a > b :
+  print("Karachi is hotter than Lahore")
+else:
+  print ("karachi is colder than lahore")
